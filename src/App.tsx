@@ -1,11 +1,7 @@
 import { useEffect, useState } from 'react';
 
-import { MovieCard } from './components/MovieCard';
 import { SideBar } from './components/SideBar';
 import { Content } from './components/Content';
-
-// import { SideBar } from './components/SideBar';
-// import { Content } from './components/Content';
 
 import { api } from './services/api';
 
